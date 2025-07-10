@@ -105,3 +105,4 @@ Ao final de nosso processo teremos uma API REST com as seguintes funcionalidades
 API REST de um **Fórum** desenvolvido como Challenge, durante a formação Backend Java, do
 programa <a href="https://www.oracle.com/br/education/oracle-next-education/">ONE (Oracle Next Education)</a> através da
 plataforma de ensino <a href="https://www.alura.com.br/">Alura</a>.
+tmj aluura
